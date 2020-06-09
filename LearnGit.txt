@@ -1,0 +1,5 @@
+Welcome to Teluso Git Tutorial
+we will learn basic concepts like:
+merging
+fork
+contributors
