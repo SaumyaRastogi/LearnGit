@@ -1,5 +1,5 @@
 Welcome to Teluso Git Tutorial
 we will learn basic concepts like:
-merging
+merging: inoder to merge create a pull request to the repository or file you want to merge then remove all the conflict and then commit again in this way you can directly remove conflict from github itself
 fork
 contributors
